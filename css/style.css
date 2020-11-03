@@ -1,0 +1,65 @@
+/* header css */
+.header{
+	overflow:hidden;
+}
+.header .logo{
+	width:25%;
+	background-color:green;
+	float:left;
+	min-height:80px;
+}
+.header .brand{
+	width:75%;
+	background-color:blue;
+	float:right;
+	min-height:80px;
+}
+/* header css */
+
+/* menu css */
+.menu{
+	background-color:red;
+	height:60px;
+}
+/* menu css */
+
+/* slider css */
+.slider{
+	background-color: steelblue;
+	min-height:200px;
+}
+/* slider css */
+
+/* content css */
+.content{
+	background-color:red;
+	overflow:hidden;
+}
+.content .left_content{
+	width:70%;
+	float:left;
+	min-height:250px;
+	background-color:orange;
+}
+.content .right_content{
+	width:30%;
+	float:right;
+	min-height:250px;
+	background-color:blue;
+}
+.content .right_content .up{
+	background-color:green;
+	min-height:125px;
+}
+.content .right_content .low{
+	background-color:yellow;
+	min-height:125px;
+}
+/* content css */
+
+/* footer css */
+.footer{
+	background-color:purple;
+	min-height:80px;
+}
+/* footer css */
